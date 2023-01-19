@@ -1,0 +1,8 @@
+site_name: "Simbio"
+site_description: "Simbio"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
